@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web Dev. Field and want to build more projects for the same.
 - 🌱 I’m currently learning C/C++ language
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 LinkedIn - www.linkedin.com/in/himanshu-kataria-02
+- E-Mail -  himanshukataria72@gmail.com
 
 <!---
 HimanshuKataria02/HimanshuKataria02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
