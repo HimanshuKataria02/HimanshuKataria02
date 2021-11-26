@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HimanshuKataria02
-- 👀 I’m interested in writing codes and make projects
+- 👀 I’m interested in Web Dev. Field and want to build more projects for the same.
 - 🌱 I’m currently learning C/C++ language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
