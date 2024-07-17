@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HimanshuKataria02
-- 👀 I’m interested in Data Analytics. Field and want to build more projects for the same.
+- 👀 I’m interested in Data Analytics Field and want to build more projects for the same.
 - 🌱 I’m currently learning Python and Data Analytics 
 - 💞️ I’m looking to collaborate on projects related to Machine Learning.
 - 📫 LinkedIn - www.linkedin.com/in/himanshu-kataria-02
