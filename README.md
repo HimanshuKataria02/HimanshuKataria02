@@ -18,7 +18,7 @@
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30" height="30" alt="GitHub" style="vertical-align:middle; margin-right:10px;">
     </a>
     <a href="https://www.linkedin.com/in/himanshu-kataria-02/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" height="30" alt="LinkedIn" style="vertical-align:middle; margin-right:10px;">
+        <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30" height="30" alt="LinkedIn" style="vertical-align:middle; margin-right:10px;">
     </a>
     <a href="mailto:himanshukataria72@gmail.com" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30" height="30" alt="Email" style="vertical-align:middle; margin-right:10px;">
