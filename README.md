@@ -15,7 +15,8 @@
 <h4>Connect with me:</h4>
 <p>
     <a href="https://github.com/HimanshuKataria02" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30" height="30" alt="GitHub" style="vertical-align:middle; margin-right:10px;">
+        <img src="![image](https://github.com/user-attachments/assets/957530ca-c17a-44d2-9fe0-02e204b35b85)
+" width="30" height="30" alt="GitHub" style="vertical-align:middle; margin-right:10px;">
     </a>
     <a href="https://www.linkedin.com/in/himanshu-kataria-02/" target="_blank">
         <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30" height="30" alt="LinkedIn" style="vertical-align:middle; margin-right:10px;">
