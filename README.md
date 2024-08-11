@@ -1,20 +1,6 @@
 <h1 align="center">Hey, I'm Himanshu Kataria</h1>
 <h3 align="center">A Data Analyst, B.Tech (CSE) Undergrad at MAIT, Delhi.</h3>
 
-<table>
-  <tr>
-    <td>
-      <p>🌱 I’m currently learning Data Analytics using Python, Ms Excel, Data Visualization Tools, SQL</p>
-      <p>💬 Ask me about <b>Big Data</b></p>
-      <p>💞️ I’m looking to collaborate on projects related to Data Analysis.</p>
-      <p>📫 How to reach me <a href="https://www.linkedin.com/in/himanshu-kataria-02/">LinkedIn</a></p>
-    </td>
-    <td>
-      <img src="https://camo.githubusercontent.com/4cb9b98860a01e6a93c5b3eb5fd5a0ae409731635562552752b75ff17b4b2167/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="gif_boy_coding" width="200">
-    </td>
-  </tr>
-</table>
-
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
