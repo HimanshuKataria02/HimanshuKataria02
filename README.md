@@ -13,7 +13,7 @@
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/himanshu-kataria-02/)
 
 ### ⚡ Recent Activity
-Connect with me:
+<h4>Connect with me:</h4>
 - LinkedIn: [Himanshu Kataria](https://www.linkedin.com/in/himanshu-kataria-02/)
 - Email: himanshukataria72@gmail.com
 
