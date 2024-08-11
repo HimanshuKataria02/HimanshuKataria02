@@ -15,15 +15,16 @@
 <h4>Connect with me:</h4>
 <p>
     <a href="https://github.com/HimanshuKataria02" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30" height="30" alt="GitHub" style="vertical-align:middle; margin-right:10px;">
     </a>
     <a href="https://www.linkedin.com/in/himanshu-kataria-02/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" height="30" alt="LinkedIn" style="vertical-align:middle; margin-right:10px;">
     </a>
     <a href="mailto:himanshukataria72@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30" height="30" alt="Email" style="vertical-align:middle; margin-right:10px;">
     </a>
 </p>
+
 
 
 ### Languages and Tools:
