@@ -5,7 +5,7 @@
   <tr>
     <td>
       <p>🌱 I’m currently learning Data Analytics using Python, Ms Excel, Data Visualization Tools, SQL</p>
-      <p>💬 Ask me about <b>__Big Data__</b></p>
+      <p>💬 Ask me about <b>Big Data</b></p>
       <p>💞️ I’m looking to collaborate on projects related to Data Analysis.</p>
       <p>📫 How to reach me <a href="https://www.linkedin.com/in/himanshu-kataria-02/">LinkedIn</a></p>
     </td>
