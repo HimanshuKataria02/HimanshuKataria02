@@ -14,8 +14,9 @@
 
 ### ⚡ Recent Activity
 <h4>Connect with me:</h4>
-- LinkedIn: [Himanshu Kataria](https://www.linkedin.com/in/himanshu-kataria-02/)
-- Email: himanshukataria72@gmail.com
+ <a href="https://github.com/HimanshuKataria02">GitHub</a> | 
+    <a href="https://www.linkedin.com/in/himanshu-kataria-02/">LinkedIn</a> | 
+    <a href="mailto:himanshukataria72@gmail.com">Email</a>
 
 ### Languages and Tools:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
