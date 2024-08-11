@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning Data Analytics using Python, Ms Excel, Data Visualization Tools, SQL
 
 - 💬 Ask me about Big Data
+- 💞️ I’m looking to collaborate on projects related to Data Analysis.
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/himanshu-kataria-02/)
 
@@ -24,14 +25,6 @@ Connect with me:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-
-
-# 👋 Hi, I’m @HimanshuKataria02
-- 👀 I’m interested in Data Analytics Field and want to build more projects for the same.
-- 🌱 I’m currently learning Data Analytics using Python, Ms Excel, Data Visualization Tools, Machine Learning
-- 💞️ I’m looking to collaborate on projects related to Machine Learning.
-- 📫 LinkedIn - www.linkedin.com/in/himanshu-kataria-02
-- E-Mail -  himanshukataria72@gmail.com
 
 <!---
 HimanshuKataria02/HimanshuKataria02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
