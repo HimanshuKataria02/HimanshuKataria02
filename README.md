@@ -15,13 +15,13 @@
 <h4>Connect with me:</h4>
 <p>
     <a href="https://github.com/HimanshuKataria02" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30" height="30" alt="GitHub" style="fill: #181717;">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
     </a>
     <a href="https://www.linkedin.com/in/himanshu-kataria-02/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" height="30" alt="LinkedIn" style="fill: #0077B5;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:himanshukataria72@gmail.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30" height="30" alt="Email" style="fill: #D14836;">
+        <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
     </a>
 </p>
 
