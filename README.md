@@ -10,8 +10,6 @@
 - 💬 Ask me about Big Data
 - 💞️ I’m looking to collaborate on projects related to Data Analysis.
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/himanshu-kataria-02/)
-
 ### ⚡ Recent Activity
 <h4>Connect with me:</h4>
  <a href="https://github.com/HimanshuKataria02">GitHub</a> | 
