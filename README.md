@@ -7,14 +7,23 @@
 
 - 🌱 I’m currently learning Data Analytics using Python, Ms Excel, Data Visualization Tools, SQL
 
-- 💬 Ask me about Big Data
+- 💬 Ask me about __Big Data__
+
 - 💞️ I’m looking to collaborate on projects related to Data Analysis.
 
 ### ⚡ Recent Activity
 <h4>Connect with me:</h4>
- <a href="https://github.com/HimanshuKataria02">GitHub</a> | 
-    <a href="https://www.linkedin.com/in/himanshu-kataria-02/">LinkedIn</a> | 
-    <a href="mailto:himanshukataria72@gmail.com">Email</a>
+<p>
+    <a href="https://github.com/HimanshuKataria02" target="_blank">
+        <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="30" height="30" alt="GitHub">
+    </a>
+    <a href="https://www.linkedin.com/in/himanshu-kataria-02/" target="_blank">
+        <img src="https://raw.githubusercontent.com/github/explore/main/topics/linkedin/linkedin.png" width="30" height="30" alt="LinkedIn">
+    </a>
+    <a href="mailto:himanshukataria72@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="30" height="30" alt="Email">
+    </a>
+</p>
 
 ### Languages and Tools:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
