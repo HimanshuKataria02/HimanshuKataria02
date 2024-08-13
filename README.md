@@ -45,7 +45,11 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi)
 
+<h4>My Github Stats:</h4>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanshuKataria02&show_icons=true&theme=gotham)
 
+<!-- You can add another line for top languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuKataria02&layout=compact&show_icons=true&theme=gotham)
 <!---
 HimanshuKataria02/HimanshuKataria02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
