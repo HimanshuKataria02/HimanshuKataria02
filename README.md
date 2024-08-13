@@ -34,22 +34,24 @@
 
 
 ### Languages and Tools:
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
 
+
+<!--
 <h4>My Github Stats:</h4>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanshuKataria02&show_icons=true&theme=gotham)
 
-<!-- You can add another line for top languages -->
+<!-- You can add another line for top languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuKataria02&layout=compact&show_icons=true&theme=gotham)
+-->
 <!---
 HimanshuKataria02/HimanshuKataria02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
