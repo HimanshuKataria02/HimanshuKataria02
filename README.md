@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Himanshu Kataria</h1>
-<h3 align="center">A Data Analyst, B.Tech (CSE) Undergrad at MAIT, Delhi.</h3>
+<h3 align="center">Data Engineer | B.Tech (CSE), MAIT Delhi</h3>
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
