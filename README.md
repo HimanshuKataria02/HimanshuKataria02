@@ -34,15 +34,12 @@
 
 
 ### Languages and Tools:
+![PySpark](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=pyspark)
+![SQL](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=SQL)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
 
 
 <!--
