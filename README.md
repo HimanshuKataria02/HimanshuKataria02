@@ -5,9 +5,9 @@
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
       <ul style="list-style-type: disc; padding-left: 20px;">
-        <li>🌱 I’m currently learning Data Analytics using Python, MS Excel, Data Visualization Tools, SQL</li>
+        <li>🌱 I’m currently expanding my expertise in Data Engineering and Analytics, focusing on SQL, Azure Data Factory, Microsoft Fabric, PySpark, Databricks, and Data Warehousing.</li>
         <li>💬 Ask me about <b>Big Data</b></li>
-        <li>💞️ I’m looking to collaborate on projects related to Data Analysis.</li>
+        <li>💞️ I’m looking to collaborate on projects related to Data Engineering.</li>
         <li>📫 How to reach me <a href="https://www.linkedin.com/in/himanshu-kataria-02/" target="_blank">LinkedIn</a></li>
       </ul>
     </td>
